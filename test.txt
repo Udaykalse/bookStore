@@ -1,0 +1,25 @@
+<!-- 
+    <div class="page-overall-padding navbar-expand-lg ">
+        <header >
+            <div class="nav-logo">
+                <img src="assets/Group 328.png" alt="page_logo">
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+            <div class="collapse navbar-collapse">
+
+          
+            <div class="nav-links ">
+                <ul >
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Courses</a></li>
+                    <li><a href="#">Our Service</a></li>
+                    <li><a href="#">Contact us</a></li>
+                    <li id="cl-btn"><a href="#">Sign In</a></li>
+                </ul>
+            </div>
+        </div>
+        </header>
+    </div> -->
