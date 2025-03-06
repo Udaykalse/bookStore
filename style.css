@@ -793,7 +793,7 @@ footer {
             width: 300px;
             margin-left: 30px;
     }
-    .input,
+    .inputDiv,
     .sec-right-search-btn{
         font-size: 9px;
     width: 50px;
@@ -801,9 +801,10 @@ footer {
     height: 30px;
 
     }
-   .end-txt{
+   /* .end-txt{
     margin-top: 35%;
-   }
+   } */
+   .input,
    .section-left,
    .section-page-right,
    .testi-heading,
@@ -827,12 +828,16 @@ footer {
     {
         margin-top: 40%;
     }
-    .main-page-two{
-        margin-top: 65%;
+    .main-two-img{
+        width: 200px;
     }
+    /* .main-page-two{
+        margin-top: 65%;
+    } */
     .main-page-two-rgt .main-two-img img {
         width: 75%;
     }
+    .end-txt h1 ,
     .trk-txt h1,
     .trk2-txt h1,
     .section-right h1,
@@ -841,6 +846,13 @@ footer {
         font-size: 20px;
     }
 
+
+.data-1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+    gap: 10px;
+}
     .data-1 img{
         width: 15%;
     }
@@ -857,5 +869,32 @@ footer {
 
     .skill-content{
         display: contents;
+    }
+    .end-sec-centre{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 300px;
+    }
+    .end-place{
+        margin: -9%;
+        width: 300px;
+        margin-top: -10%;
+    }
+    .end-section{
+        background-size: 100%;
+        background-size: cover;
+        background-position: right;
+    }
+
+    .two-fr ,
+    .three-fr,
+    .four-fr,
+    .two-fr ul,
+    .three-fr ul,
+    .four-fr ul,
+    .logo-p{
+        width: 300px;
     }
 }
