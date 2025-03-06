@@ -79,16 +79,16 @@ header {
 /* X and MENU */
 .close-menu {
     position: absolute;
-    top: -39px;
-    right: 5px;
+    top: -48px;
+    right: -23px;
     background: white;
     border: none;
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
-    padding: 5px 10px;
-    border-radius: 50%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px;
+    border-radius: 10px;
+    width: 80px;
 }
 
 .close-menu:hover {
